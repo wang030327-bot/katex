@@ -1,0 +1,8 @@
+interface:
+  display_name: KaTeX
+  short_description: Integrate and troubleshoot KaTeX math rendering
+  default_prompt: Use $katex to add accessible, secure math rendering to this project.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true

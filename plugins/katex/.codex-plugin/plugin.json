@@ -1,0 +1,29 @@
+{
+  "name": "katex",
+  "version": "1.0.0",
+  "description": "Integrate, configure, troubleshoot, and secure KaTeX math rendering.",
+  "author": {
+    "name": "wang030327-bot",
+    "url": "https://github.com/wang030327-bot"
+  },
+  "homepage": "https://github.com/wang030327-bot/katex",
+  "repository": "https://github.com/wang030327-bot/katex",
+  "keywords": ["katex", "math", "tex", "rendering"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "KaTeX",
+    "shortDescription": "Build reliable and secure KaTeX integrations.",
+    "longDescription": "Add, configure, debug, and optimize KaTeX in browser, Node.js, SSR, static-site, and component-framework projects, including accessibility and untrusted-input controls.",
+    "developerName": "wang030327-bot",
+    "category": "Productivity",
+    "capabilities": [],
+    "websiteURL": "https://github.com/wang030327-bot/katex",
+    "brandColor": "#4D4D4D",
+    "composerIcon": "./skills/katex/assets/icon.svg",
+    "defaultPrompt": [
+      "Add accessible KaTeX rendering to this project.",
+      "Diagnose this KaTeX rendering problem.",
+      "Secure KaTeX for untrusted user input."
+    ]
+  }
+}

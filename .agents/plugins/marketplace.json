@@ -1,0 +1,20 @@
+{
+  "name": "katex-marketplace",
+  "interface": {
+    "displayName": "KaTeX Plugins"
+  },
+  "plugins": [
+    {
+      "name": "katex",
+      "source": {
+        "source": "local",
+        "path": "./plugins/katex"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
